@@ -1,2 +1,1 @@
-# PREPCOURSE-HENRY-2023
-ESTE ES UN REPOSITORIO DEL MODULO 2 DEL PREPCOURSE DE HENRY
+este proyecto es una prueba de como crear un repositorio y clonarlo en mi computadora
